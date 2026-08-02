@@ -1,0 +1,15 @@
+{
+  "repo": "techmate",
+  "feeds": [
+    {
+      "source": "https://techmate.com/feed/",
+      "error": "HTTPError"
+    },
+    {
+      "source": "https://techmate.com",
+      "error": "HTTPError"
+    }
+  ],
+  "post_count": 6,
+  "fetched": "2026-08-01T15:49:00Z"
+}
