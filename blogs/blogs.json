@@ -2,13 +2,20 @@
   "repo": "techmate",
   "feeds": [
     {
+      "source": "https://techmate.com/feed/",
+      "feed_url": "https://techmate.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://techmate.com",
       "feed_url": "https://techmate.com/feed/",
       "title": "",
-      "saved": 3,
+      "saved": 0,
       "method": "discovered"
     }
   ],
-  "post_count": 9,
-  "fetched": "2026-08-15T12:11:08Z"
+  "post_count": 12,
+  "fetched": "2026-08-22T20:20:02Z"
 }
